@@ -7,9 +7,12 @@
 
 <!-- Quick Connect & Location Badges in Aurora Pastel Accents -->
 <a href="https://www.linkedin.com/in/sachin-mane-27b14665/"><img src="https://img.shields.io/badge/LinkedIn-sachin--mane-8b5cf6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+&nbsp;
 <a href="https://github.com/mumbaimerijaan"><img src="https://img.shields.io/badge/GitHub-mumbaimerijaan-38bdf8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.google.com/maps/place/Mumbai"><img src="https://img.shields.io/badge/Location-Mumbai%2C%20India-f472b6?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" /></a>
-<a href="https://www.linkedin.com/in/sachin-mane-27b14665/"><img src="https://img.shields.io/badge/Status-Open%20to%20Collaboration-059669?style=for-the-badge" alt="Status" /></a>
+&nbsp;
+<a href="https://www.google.com/maps/place/Mumbai"><img src="https://img.shields.io/badge/Location-Mumbai%2C%20India-f472b6?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" /></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/sachin-mane-27b14665/"><img src="https://img.shields.io/badge/Status-Open_to_Collaboration-059669?style=for-the-badge" alt="Status" /></a>
 
 </div>
 
@@ -35,15 +38,14 @@ philosophy: "Turning creative ideas into fast, elegant, production-ready softwar
 
 ### 🎨 Tech Stack & Tools
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,mongodb,tailwind,html,css,py,docker,aws,figma&theme=light" alt="Tech Stack & Tools" />
+</p>
 
-| Category | Technologies |
-| :--- | :--- |
-| **Core Frontend** | <img src="https://img.shields.io/badge/React-8b5cf6?style=flat-square&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-38bdf8?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-f472b6?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TailwindCSS-06b6d4?style=flat-square&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-ea580c?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-4f46e5?style=flat-square&logo=css3&logoColor=white" /> |
-| **Backend & Databases** | <img src="https://img.shields.io/badge/Node.js-059669?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-10b981?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Python-38bdf8?style=flat-square&logo=python&logoColor=white" /> |
-| **DevOps & Design** | <img src="https://img.shields.io/badge/Docker-0284c7?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-f59e0b?style=flat-square&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-f43f5e?style=flat-square&logo=figma&logoColor=white" /> |
-
-</div>
+<p align="center">
+  <sub><b>Frontend:</b> React • TypeScript • JavaScript • TailwindCSS • HTML5 • CSS3</sub> &nbsp;|&nbsp; 
+  <sub><b>Backend & Cloud:</b> Node.js • MongoDB • Python • Docker • AWS • Figma</sub>
+</p>
 
 ---
 
