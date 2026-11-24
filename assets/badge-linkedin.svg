@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="216" height="28" viewBox="0 0 216 28" role="img" aria-label="LinkedIn: sachin-mane">
+  <title>LinkedIn: sachin-mane</title>
+  <clipPath id="r">
+    <rect width="216" height="28" rx="4" fill="#fff"/>
+  </clipPath>
+  <g clip-path="url(#r)">
+    <rect width="96" height="28" fill="#1e1b4b"/>
+    <rect x="96" width="120" height="28" fill="#8b5cf6"/>
+  </g>
+  <g fill="#ffffff">
+    <path d="M9 10h3.2v10H9V10zm1.6-4.8c1.02 0 1.84.82 1.84 1.84s-.82 1.84-1.84 1.84-1.84-.82-1.84-1.84.82-1.84 1.84-1.84zM14.5 10H17.5v1.4h.04c.42-.79 1.44-1.63 2.97-1.63 3.18 0 3.76 2.09 3.76 4.81V20h-3.33v-4.81c0-1.15-.02-2.63-1.6-2.63-1.61 0-1.85 1.25-1.85 2.55V20H14.5V10z"/>
+    <text x="32" y="18" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="10.5" font-weight="700" letter-spacing="1">LINKEDIN</text>
+    <text x="108" y="18" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="0.3">sachin-mane</text>
+  </g>
+</svg>

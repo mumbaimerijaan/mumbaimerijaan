@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="224" height="28" viewBox="0 0 224 28" role="img" aria-label="GitHub: mumbaimerijaan">
+  <title>GitHub: mumbaimerijaan</title>
+  <clipPath id="r">
+    <rect width="224" height="28" rx="4" fill="#fff"/>
+  </clipPath>
+  <g clip-path="url(#r)">
+    <rect width="86" height="28" fill="#1e1b4b"/>
+    <rect x="86" width="138" height="28" fill="#0284c7"/>
+  </g>
+  <g fill="#ffffff">
+    <path d="M16 6.5C11.86 6.5 8.5 9.86 8.5 14c0 3.31 2.15 6.12 5.13 7.12.38.07.51-.16.51-.36v-1.4c-2.09.45-2.53-.88-2.53-.88-.34-.87-.83-1.1-.83-1.1-.68-.47.05-.46.05-.46.75.05 1.15.77 1.15.77.67 1.15 1.76.82 2.19.63.07-.49.26-.82.48-1.01-1.67-.19-3.42-.83-3.42-3.71 0-.82.29-1.49.77-2.02-.08-.19-.33-.95.07-1.99 0 0 .63-.2 2.07.77.6-.17 1.24-.25 1.88-.25.64 0 1.28.08 1.88.25 1.44-.97 2.07-.77 2.07-.77.4 1.04.15 1.8.07 1.99.48.53.77 1.2.77 2.02 0 2.89-1.75 3.52-3.43 3.71.27.23.51.69.51 1.39v2.07c0 .2.14.44.52.36 2.98-1 5.12-3.81 5.12-7.12 0-4.14-3.36-7.5-7.5-7.5z"/>
+    <text x="29" y="18" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="10.5" font-weight="700" letter-spacing="1">GITHUB</text>
+    <text x="96" y="18" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="0.3">mumbaimerijaan</text>
+  </g>
+</svg>

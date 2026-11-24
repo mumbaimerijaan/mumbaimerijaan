@@ -6,13 +6,13 @@
 <br /><br />
 
 <!-- Quick Connect & Location Badges in Aurora Pastel Accents -->
-<a href="https://www.linkedin.com/in/sachin-mane-27b14665/"><img src="https://img.shields.io/badge/LinkedIn-sachin--mane-8b5cf6?style=for-the-badge&logo=linkedin&logoColor=white&v=3" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/sachin-mane-27b14665/"><img src="assets/badge-linkedin.svg" alt="LinkedIn: sachin-mane" /></a>
 &nbsp;
-<a href="https://github.com/mumbaimerijaan"><img src="https://img.shields.io/badge/GitHub-mumbaimerijaan-38bdf8?style=for-the-badge&logo=github&logoColor=white&v=3" alt="GitHub" /></a>
+<a href="https://github.com/mumbaimerijaan"><img src="assets/badge-github.svg" alt="GitHub: mumbaimerijaan" /></a>
 &nbsp;
-<a href="https://www.google.com/maps/place/Mumbai"><img src="https://img.shields.io/badge/Location-Mumbai,_India-f472b6?style=for-the-badge&logo=googlemaps&logoColor=white&v=3" alt="Location" /></a>
+<a href="https://www.google.com/maps/place/Mumbai"><img src="assets/badge-location.svg" alt="Location: Mumbai, India" /></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/sachin-mane-27b14665/"><img src="https://img.shields.io/badge/Status-Open_to_Collaboration-059669?style=for-the-badge&v=3" alt="Status" /></a>
+<a href="https://www.linkedin.com/in/sachin-mane-27b14665/"><img src="assets/badge-status.svg" alt="Status: Open to Collaboration" /></a>
 
 </div>
 
