@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 100" width="100%" height="100%">
+  <defs>
+    <linearGradient id="mtnGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#34d399" />
+      <stop offset="100%" stop-color="#059669" />
+    </linearGradient>
+    <linearGradient id="skyMintGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ccfbf1" />
+      <stop offset="100%" stop-color="#99f6e4" />
+    </linearGradient>
+    <filter id="mtnGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#10b981" flood-opacity="0.3" />
+    </filter>
+  </defs>
+  <!-- Background pastel mint aura -->
+  <circle cx="105" cy="50" r="42" fill="url(#skyMintGrad)" opacity="0.7" />
+  
+  <!-- Stylized Mountain & Sun / Landscape -->
+  <g transform="translate(70, 25)" filter="url(#mtnGlow)">
+    <!-- Sun -->
+    <circle cx="48" cy="18" r="8" fill="#fbbf24" opacity="0.9" />
+    <!-- Back Peak -->
+    <polygon points="12,50 36,16 58,50" fill="#2dd4bf" opacity="0.8" />
+    <!-- Front Peak -->
+    <polygon points="26,50 48,22 70,50" fill="url(#mtnGrad)" />
+    <!-- Snow Cap -->
+    <polygon points="48,22 42,32 46,30 50,33 54,30" fill="#ffffff" />
+  </g>
+</svg>
